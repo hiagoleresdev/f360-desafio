@@ -1,0 +1,15 @@
+C:\Users\hiago.leres\source\repos\DesafioF360\bin\Debug\net6.0\DesafioF360.exe
+C:\Users\hiago.leres\source\repos\DesafioF360\bin\Debug\net6.0\DesafioF360.deps.json
+C:\Users\hiago.leres\source\repos\DesafioF360\bin\Debug\net6.0\DesafioF360.runtimeconfig.json
+C:\Users\hiago.leres\source\repos\DesafioF360\bin\Debug\net6.0\DesafioF360.dll
+C:\Users\hiago.leres\source\repos\DesafioF360\bin\Debug\net6.0\ref\DesafioF360.dll
+C:\Users\hiago.leres\source\repos\DesafioF360\bin\Debug\net6.0\DesafioF360.pdb
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.csproj.AssemblyReference.cache
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.AssemblyInfoInputs.cache
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.AssemblyInfo.cs
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.csproj.CoreCompileInputs.cache
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.dll
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\ref\DesafioF360.dll
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.pdb
+C:\Users\hiago.leres\source\repos\DesafioF360\obj\Debug\net6.0\DesafioF360.genruntimeconfig.cache
