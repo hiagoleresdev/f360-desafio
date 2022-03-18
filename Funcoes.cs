@@ -117,16 +117,9 @@ namespace DesafioF360
         }
 
         //MÉTODO PARA ORDENAR NA ORDEM DO ALFABETO KLINDON
-
-        /*
+        
         public string TextoOrdenado()
         {
-           
-            var vocabulario = new Dictionary<string, string>();
-            var textoOrdenado = new StringBuilder("");
-            var ordemLetras = new StringBuilder("");
-
-
             using (StreamReader sr = new StreamReader(@"C:\Users\hiago.leres\source\repos\DesafioF360\textoB.txt"))
             {
                 while (sr.Peek() >= 0)
@@ -134,31 +127,20 @@ namespace DesafioF360
 
                     string line = sr.ReadLine();
                     string[] words = line.Split();
+                    
+                    var ordemLetras = new StringBuilder("");
                     foreach (string word in words)
                     {
 
-                        ordemLetras.Clear();
-                        foreach (var letter in word)
-                        {
-                            ordemLetras.Append(alfabeto[Array.IndexOf(alfabetoKlingon, letter)]);
-                        }
-                        vocabulario.Add(word, ordemLetras.ToString());
-
-
-                        var vocabularioOrdenado = vocabulario.OrderBy(x => x.Value);
-                        foreach (var item in vocabularioOrdenado)
-                        {
-                            textoOrdenado.Append(item.Key + " ");
-                        }
-                        textoOrdenado.Remove(textoOrdenado.Length - 1, 1);
+                     //Não consegui chegar em uma resolução concreta
                     }
-                    
+                   
                 }
-                return textoOrdenado.ToString();
+                
             }
 
-
-        }*/
+            return "";
+        }
 
         //Métodos para achar os números bonitos
         public int Numeros()

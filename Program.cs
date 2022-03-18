@@ -21,7 +21,7 @@ namespace DesafioF360
             Console.WriteLine("3-) E quantos verbos no texto B estão em primeira pessoa?");
             Console.WriteLine("R:" + verbosPrimeiraPessoa);
             Console.WriteLine("4: Como seria a lista de vocabulário do Texto B?");
-            //Console.WriteLine(f.TextoOrdenado());
+            Console.WriteLine(f.TextoOrdenado());
             Console.WriteLine("5: E no Texto B? Quantos números bonitos existem?");
             Console.WriteLine(f.Numeros());
             Console.WriteLine("---------------------------------------------");
